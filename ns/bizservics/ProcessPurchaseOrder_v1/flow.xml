@@ -1067,7 +1067,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="dbservices:insertPOLine" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
+  <COMMENT>Insert to DB</COMMENT>
 
   <!-- nodes -->
 
